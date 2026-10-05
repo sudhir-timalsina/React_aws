@@ -1,12 +1,12 @@
 {
-  "name": "Sammy",
-  "tagline": "DevOps & Cloud Engineer in the making ",
+  "name": "Dada",
+  "tagline": "WOAOHOHOHOHOHO  ",
   "photo": "profile.png",
   "roll": "4447",
-  "department": "Computer Engineering",
+  "department": "CS with AI re ",
   "year": "2020",
-  "email": "bhattsameer4447@gmail.com",
-  "gpa": "4.00",
+  "email": "contactdada@gmail.com",
+  "gpa": "Kina Cahayo ra yrr",
   "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
   "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
   "links": {
